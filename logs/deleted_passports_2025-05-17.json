@@ -1,0 +1,42 @@
+{
+  "deletedAt": "2025-05-17T19:31:52.561Z",
+  "deletedBy": "68255a7b0b85b5319a0553ea",
+  "passportData": {
+    "passportNumber": "ABCDEHI",
+    "link": "https://wafid.com/appointment/RDgze21Z76d57xo/pay/",
+    "city": "Lucknow/navjyoti/aijaz/ashraf/sesa",
+    "slipNo": "006",
+    "issuedCountry": "India",
+    "postDate": "2025-05-18T01:00:24.612Z",
+    "otherDetails": "Azamgarh",
+    "_id": "6828e3d05245396b8fcdf7b0"
+  }
+}
+{
+  "deletedAt": "2025-05-17T19:32:23.746Z",
+  "deletedBy": "68255a7b0b85b5319a0553ea",
+  "passportData": {
+    "passportNumber": "C00",
+    "link": "https://wafid.com/appointment/RDgze21Z76d57xo/pay/",
+    "city": "Lucknow/navjyoti/aijaz",
+    "slipNo": "12345678",
+    "issuedCountry": "America",
+    "postDate": "2025-05-18T00:53:58.680Z",
+    "otherDetails": "no details",
+    "_id": "68260f0efca152c87bec592d"
+  }
+}
+{
+  "deletedAt": "2025-05-17T19:32:23.878Z",
+  "deletedBy": "68255a7b0b85b5319a0553ea",
+  "passportData": {
+    "passportNumber": "ABCDEHI",
+    "link": "https://example.com/api/v1/passport/verify",
+    "city": "Lucknow/navjyoti/aijaz/ashraf/sesa",
+    "slipNo": "006",
+    "issuedCountry": "India",
+    "postDate": "2025-05-18T00:58:31.463Z",
+    "otherDetails": "Azamgarh",
+    "_id": "6828e35f5245396b8fcdf794"
+  }
+}
